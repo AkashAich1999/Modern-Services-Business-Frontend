@@ -1,7 +1,7 @@
 Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS.
 
-https://modern-services-business-frontend.vercel.app/
-
+Live: https://modern-services-business-frontend.vercel.app/
+##
 <img width="960" alt="modern-website-1" src="https://github.com/AkashAich1999/Modern-Services-Business-Frontend/assets/108985323/08fa9c80-c4d8-4875-a601-1069bdb5042d">
 
 <img width="960" alt="modern-website-2" src="https://github.com/AkashAich1999/Modern-Services-Business-Frontend/assets/108985323/f48354f1-19fa-4c34-a9a7-0a8778c0d3f6">
